@@ -1,0 +1,15 @@
+In order to use/test the homeworks, you must do the following steps:
+  1) download the following framework[1] and make sure to have everything
+     installed as it's described there; make sure to create the build in
+     the root of the framework
+  2) copy the 'sounds' directory in the root where the framework is build
+  3) replace directory 'lab_m1' from /src folder with the one from this
+     repository
+
+The repository contains the following games implemented:
+  1) Survival Shooter: a 2D topdown survival game that has a unicorn(the
+     player) survive the attacks of penguin enemies
+  2) Survival Maze: 3D survival game that has you escape a maze within a
+     certain time while fighting enemies
+  3) Disco Party: a simulation of a disco club room with different lighting
+     methods, along with different songs
