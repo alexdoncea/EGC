@@ -1,2 +1,2 @@
-# TemeEGC
-Implementarea temelor facute la materia Elemente de Grafica pe Calculator
+# EGC
+Implementarea temelor si laboratoarelor facute la materia Elemente de Grafica pe Calculator
